@@ -11,3 +11,4 @@ Problem: There is no way to track fishing stats that is streamlined and easy.
 3. Rely on donations, and run ads for monetization.
 
 Signed: Gabriel De La Cruz
+Signed: Taylor Jaffke
