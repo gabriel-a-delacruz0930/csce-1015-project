@@ -15,3 +15,5 @@ Signed: Gabriel De La Cruz
 Signed: Taylor Jaffke
 
 Signed: Marshall Gillespie
+
+Signed: Xavier Rosado
