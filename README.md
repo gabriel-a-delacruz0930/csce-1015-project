@@ -1,12 +1,11 @@
-## CSCE 1015 Project
-project for final
+## CSCE 1015 Project - FishingAPI
 Names: Gabriel De La Cruz, Marshall Gillespie, Xavier Rosado, Taylor Jaffke
 Group Name: Fishin’ Fans
-Project Name: FishingAPI
 
-## What's Wrong/It Does
+## What's Wrong
 Problem: There is no way to track fishing stats that is streamlined and easy.
 
+## What It Does
 1. Fish Registry where you can make an account, and it tracks species, color, location, weight, and time caught. Extra info can be added in comments.
 2. Website that can be accessed for free, and it stores all data of a profile.
 3. Rely on donations, and run ads for monetization.
