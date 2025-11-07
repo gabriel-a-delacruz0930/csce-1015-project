@@ -17,3 +17,22 @@ Signed: Taylor Jaffke
 Signed: Marshall Gillespie
 
 Signed: Xavier Rosado
+
+## Project Structure
+Brief explanation of main folders/files
+- A way to view the information
+- A way to edit the information
+- A way to store the information
+- A login feature/Main Menu
+
+## How to Contribute
+- A way to view the information (main menu) - Marshall
+- A way to edit the information - Gabriel
+- A way to store the information - Taylor
+- A login feature - Xavier
+
+## Current Status
+We JUST laid the groundwork for what we need to do
+
+## License
+[Choose a license at choosealicense.com]
