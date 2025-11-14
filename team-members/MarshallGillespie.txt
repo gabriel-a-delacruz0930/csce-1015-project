@@ -1,0 +1,3 @@
+﻿Name: Marshall Gillespie
+Role: Frontend
+Favorite Programming Language: Python
