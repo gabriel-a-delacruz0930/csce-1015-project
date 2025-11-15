@@ -1,0 +1,2 @@
+Name: Taylor Jaffke
+Role: Storage of inputted information.
