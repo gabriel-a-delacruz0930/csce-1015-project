@@ -34,7 +34,18 @@ Brief explanation of main folders/files
 - A login feature - Xavier
 
 ## Current Status
-We JUST laid the groundwork for what we need to do
+
+**Questions to discuss:**
+1. What project interests everyone?
+2. Do we know the technology needed? (Python, JavaScript, etc.)
+3. Can we finish in 2 weeks?
+4. Will it be cool to show off?
+
+Team Name: __Fishin' Fans_____________
+Project: __Site for Fishing Enthusists_____________
+Technology: _______________
+Goal: Around Decemberish, we will have a working site that can etch your fishing legacy into the internet.
+Yeah I'd say it would be cool
 
 ## License
 [Choose a license at choosealicense.com]
