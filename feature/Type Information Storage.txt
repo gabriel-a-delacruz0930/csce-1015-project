@@ -1,0 +1,2 @@
+Type: Information Storage
+Code that allows the user to input and store fish.
