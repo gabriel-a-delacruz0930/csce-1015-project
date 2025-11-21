@@ -1,9 +1,7 @@
-def main ()
-fish_name = []
+def edit_info ():
+    fish_name = []
+name = input("Enter your fish's name: ") 
+slot1 = {name}
 
-# Add first device
-slot1 = {
-    name = input("Enter your fish's name: ")
-}
 fish_name.append(slot1)
 print(f"Added {slot1['name']}")
