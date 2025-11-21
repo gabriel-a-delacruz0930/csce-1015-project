@@ -16,7 +16,7 @@ def login_user():
     password = input("Enter password: ")
 
     if os.path.exists(f"{username}.txt"):
-        with open(f"{username}.txt"):
+        with open(f"{username}.txt", "r") as file:
             stored_password = file.read()
             if stored_password == password:
                  print("Login Succesful!")
