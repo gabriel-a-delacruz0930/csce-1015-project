@@ -41,6 +41,10 @@ Brief explanation of main folders/files
 3. Can we finish in 2 weeks?
 4. Will it be cool to show off?
 
+
+
+User Stories
+
 Team Name: __Fishin' Fans_____________
 Project: __Site for Fishing Enthusists_____________
 Technology: _______________
