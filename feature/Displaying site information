@@ -1,0 +1,35 @@
+import requests
+from bs4 import BeautifulSoup
+
+def view_website_info(url):
+    try:
+        # Send request to the website
+        response = requests.get(url)
+        response.raise_for_status()  
+        
+        # Parse the HTML
+        soup = BeautifulSoup(response.text, "html.parser")
+        
+        print("\n www.FishinFans.com ===")
+        
+        if soup.title:
+            print("www.FishinFans.com ", soup.title.string)
+        
+        # Meta description
+        description = soup.find("meta", attrs={"name": "description"})
+        if description:
+            print("Description:", description.get("content"))
+        
+        h1 = soup.find("h1")
+        if h1:
+            print("Main Heading (H1):", h1.text.strip())
+        
+        text = soup.get_text(separator=" ", strip=True)
+        print("\nPage Text Preview:")
+        print(text[:400], "...")
+    
+    except requests.exceptions.RequestException as e:
+        print("Error fetching the website:", e)
+
+# Example usage:
+view_website_info("https://www.example.com")
