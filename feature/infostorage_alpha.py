@@ -1,8 +1,13 @@
 import os
 
+#===========================================
 #Simple program to catalouge fish info
 #Only stores basic information in strings.
+#===========================================
 
+
+#Record & store the fish information
+#===========================================
 def fishStore():
     print("\n[======] Fish Information Storage Program: [======] \n")
 
@@ -23,4 +28,28 @@ def fishStore():
     print (f"Fish Location: {location} \n")
     print (f"Fish Weight: {weight} lbs\n")
     print (f"Date Caught: {date_caught} \n")
-fishStore()
+
+#Choice function that lets the user decide if they want to record another fish, or exit the program
+#===========================================
+def choicefunc():
+    choice = input("Record another fish? (y/n):")
+    if choice.lower() == 'y':
+        fishStore()
+    if choice.lower() == 'n':
+        print("\n[======] Exiting, thanks for using FishingEnthusiasts.com! [======] \n")
+        print("Copyright Fishin' Fans Inc. 2025")
+    else:
+        print("Invalid input, try again.")
+        choicefunc()
+
+
+
+#Main func, call other funcs
+#===========================================
+def main():
+    fishStore()
+    choicefunc()
+
+
+if __name__ == "__main__":
+    main()
