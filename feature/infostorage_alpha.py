@@ -14,5 +14,5 @@ def fishStore():
     print (f"Fish Location: {location} \n")
     print (f"Fish Weight: {weight} \n")
     print (f"Date Caught: {date_caught} \n")
-
+fishStore()
 
