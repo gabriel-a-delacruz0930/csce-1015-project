@@ -1,5 +1,8 @@
 import os
 
+#This wasn't really hard in the slightest, I couldn't think of anything else needed for the fish storage section of the program, so this isn't a huge .py file.
+#I'm under the impression the main goal of this project is developing teamwork skills.
+
 #===========================================
 #Simple program to catalouge fish info
 #Only stores basic information in strings.
@@ -53,3 +56,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
