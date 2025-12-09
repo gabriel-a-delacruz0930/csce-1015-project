@@ -22,6 +22,11 @@
          uses: actions/setup-python@v4
          with:
            python-version: '3.x'
+
+
            
+       - name: List files in repo root
+         run: ls -l
+
        - name: Run tests
          run: python test_app.py
