@@ -33,11 +33,10 @@ def edit_info():
             elif y == "5":
                 date_caught = input("Enter your changes now: ")
                 print(f"Date caught changed to: {date_caught}")
-            
-                
+                    
         elif x == "2":
             print("Changes complete. Now exiting...")
-        break
+            break
         
 
 edit_info()
