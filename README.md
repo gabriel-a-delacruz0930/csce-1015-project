@@ -48,7 +48,7 @@ User Stories
 Team Name: __Fishin' Fans_____________
 Project: __Site for Fishing Enthusists_____________
 Technology: _______________
-Goal: Around Decemberish, we will have a working site that can etch your fishing legacy into the internet.
+Goal: Around Decemberish, we will have a working site that can fetch your fishing legacy into the internet.
 Yeah I'd say it would be cool
 
 ## License
