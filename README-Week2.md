@@ -13,7 +13,7 @@ Gabriel De La Cruz:
 - [ ] As a tester, I want it to be mostly user friendly, so that anybody can pick it up and edit their info.
 
 Xavier Rosado:
-## Must Have (We NEED these to demo)
+### Must Have (We NEED these to demo)
 - [ ] As a Designer, I want to have a login feature, so that users can have an account to login with.
 - [ ] As a Designer, I want to code the login feature simple, so that it can be a quicker code and be more legible.
  
