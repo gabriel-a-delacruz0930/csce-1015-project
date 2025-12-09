@@ -52,4 +52,6 @@ Goal: Around Decemberish, we will have a working site that can etch your fishing
 Yeah I'd say it would be cool
 
 ## License
-[Choose a license at choosealicense.com]
+This project was created fro CSCE 1015: Computer Tools: Technique and Laboratory at University of North Texas for the Fall of 2025
+
+Made with ❤️ by Team FishinFans!!!
